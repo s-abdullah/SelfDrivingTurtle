@@ -53,6 +53,6 @@ Finalized pattern is used to make the turn decision.
 [Base Code from](https://github.com/jingxixu/followbot)
 
 
-[f1]:https://github.com/s-abdullah/SelfDrivingTurtle/blob/master/gifs/f1.png 
-[f2]:https://github.com/s-abdullah/SelfDrivingTurtle/blob/master/gifs/f2.png 
-[f3]:https://github.com/s-abdullah/SelfDrivingTurtle/blob/master/gifs/f3.png 
+[f1]:https://github.com/s-abdullah/SelfDrivingTurtle/blob/master/gifs/f1.gif
+[f2]:https://github.com/s-abdullah/SelfDrivingTurtle/blob/master/gifs/f2.gif
+[f3]:https://github.com/s-abdullah/SelfDrivingTurtle/blob/master/gifs/f3.gif
